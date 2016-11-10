@@ -1,1 +1,1 @@
-这是一个数据统计程序
+statistics center
